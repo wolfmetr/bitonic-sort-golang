@@ -1,4 +1,4 @@
-bitonic_sort_golang
+Bitonic Sort using golang
 ===================
 
 Bitonic Sort Golang
